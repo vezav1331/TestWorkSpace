@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#NewRule
+/Scool2/.vs/*
+/Scool2/Scool2/obj/*
