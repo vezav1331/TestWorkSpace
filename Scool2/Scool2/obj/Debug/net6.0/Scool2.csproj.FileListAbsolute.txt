@@ -1,0 +1,60 @@
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.exe
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.deps.json
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.runtimeconfig.json
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.CoreCompileInputs.cache
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
+C:\TASKS\!Task4\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.exe
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.deps.json
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.runtimeconfig.json
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.CoreCompileInputs.cache
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
+C:\Users\saran\OneDrive\Рабочий стол\Task4_2\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.exe
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.deps.json
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.runtimeconfig.json
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.CoreCompileInputs.cache
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
+C:\TASKS\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.exe
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.deps.json
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.runtimeconfig.json
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.CoreCompileInputs.cache
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
+G:\1VSProekts\!Task4\Task4_3\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
