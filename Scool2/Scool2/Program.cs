@@ -31,12 +31,6 @@ namespace Scool2
             Console.Write("123");
             Console.Write("123");
 
-            Console.Write("Кря");
-            Console.Write("Кря");
-            Console.Write("Кря");
-            Console.Write("Кря");
-            Console.Write("Кря");
-
             /*
 
             MainService.Studi(stu);
