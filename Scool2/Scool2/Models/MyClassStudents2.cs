@@ -8,7 +8,7 @@ namespace Scool2.Models
 {
     public class MyClassStudents2
     {
-        public List<string> NameStudents2 { get; set; }
+        public List<string> NameStudents2 { get; set; } //ПОПРАВИТЬ ТУТ 1
 
         public int ClassId2 { get; set; }
     }

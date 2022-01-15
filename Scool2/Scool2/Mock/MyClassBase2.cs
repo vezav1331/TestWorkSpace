@@ -12,7 +12,7 @@ namespace Scool2
         {
             List<MyClass2> myClass2 = new List<MyClass2>();
 
-            myClass2.Add(new MyClass2() { Id = 1, ClassName = "Класс1_Школа2" });
+            myClass2.Add(new MyClass2() { Id = 1, ClassName = "Класс1_Школа2" });   ////ПОПРАВИТЬ ТУТ 2
             myClass2.Add(new MyClass2() { Id = 2, ClassName = "Класс2_Школа2" });
             myClass2.Add(new MyClass2() { Id = 3, ClassName = "Класс3_Школа2" });
             myClass2.Add(new MyClass2() { Id = 4, ClassName = "Класс4_Школа2" });
