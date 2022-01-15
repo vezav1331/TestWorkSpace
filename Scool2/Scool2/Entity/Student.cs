@@ -1,6 +1,6 @@
 ﻿using School.Enums;
 
-namespace School
+namespace School.Entity
 {
     /// <summary>
     /// Студенты

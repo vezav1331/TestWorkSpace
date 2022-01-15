@@ -1,4 +1,4 @@
-﻿namespace School
+﻿namespace School.Entity
 {
     /// <summary>
     /// Учебные классы

@@ -1,4 +1,6 @@
-﻿namespace School
+﻿using School.Entity;
+
+namespace School.Mock
 {
     /// <summary>
     /// 

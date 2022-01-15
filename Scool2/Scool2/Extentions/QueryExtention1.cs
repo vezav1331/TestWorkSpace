@@ -1,4 +1,5 @@
-﻿using School.Models;
+﻿using School.Entity;
+using School.Models;
 
 namespace School.Extentions
 {

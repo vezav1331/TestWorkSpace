@@ -1,6 +1,8 @@
 ﻿using School.Entity;
+using School.Interfaces;
+using School.Mock;
 
-namespace School
+namespace School.Service
 {
     /// <summary>
     /// Главный сервис

@@ -1,4 +1,7 @@
-﻿namespace School
+﻿using School.Interfaces;
+using School.Service;
+
+namespace School
 {
     public class Program
     {
