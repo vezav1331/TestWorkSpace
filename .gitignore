@@ -51,10 +51,17 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-#NewRule
+# NewRule
 Scool2/.vs/**
 Scool2/Scool2/obj/**
 Scool2/.vs/*
 Scool2/Scool2/obj/*
 Scool2/.vs/
 Scool2/Scool2/obj/
+
+/Scool2/.vs/**
+/Scool2/Scool2/obj/**
+/Scool2/.vs/*
+/Scool2/Scool2/obj/*
+/Scool2/.vs/
+/Scool2/Scool2/obj/
