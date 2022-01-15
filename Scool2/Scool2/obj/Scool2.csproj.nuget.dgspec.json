@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj": {}
+    "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj": {}
   },
   "projects": {
-    "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj": {
+    "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj",
+        "projectUniqueName": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj",
         "projectName": "Scool2",
-        "projectPath": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\obj\\",
+        "projectPath": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj",
+        "packagesPath": "C:\\Users\\saran\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saran\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

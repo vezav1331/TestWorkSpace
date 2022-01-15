@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Scool2.TestFolder
+namespace Scool2.TestFolder2
 {
-    internal class TestClass
+    internal class TestClass2
     {
-        int a = 3;
-
     }
 }

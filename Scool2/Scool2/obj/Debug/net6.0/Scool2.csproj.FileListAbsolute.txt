@@ -73,3 +73,18 @@ C:\TASKS\GitHubProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
 C:\TASKS\GitHubProject\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
 C:\TASKS\GitHubProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
 C:\TASKS\GitHubProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.exe
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.deps.json
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.runtimeconfig.json
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.CoreCompileInputs.cache
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\ref\Scool2.dll
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.pdb
+C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.genruntimeconfig.cache
