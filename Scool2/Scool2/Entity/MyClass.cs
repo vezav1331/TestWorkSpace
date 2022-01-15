@@ -24,5 +24,10 @@
         /// Учитель класса
         /// </summary>
         public Teacher MyTeacher { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public int SchoolId { get; set; }
     }
 }
