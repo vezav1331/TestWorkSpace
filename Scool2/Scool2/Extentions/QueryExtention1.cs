@@ -1,11 +1,11 @@
-﻿using Scool2.Models;
+﻿using School.Models;
 
-namespace Scool2.Extentions
+namespace School.Extentions
 {
     /// <summary>
     /// 
     /// </summary>
-    public static class QueryEcxtetions1
+    public static class QueryExtention1
     {
         /// <summary>
         /// 

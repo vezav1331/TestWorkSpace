@@ -1,6 +1,6 @@
-﻿using Scool2.Enums;
+﻿using School.Enums;
 
-namespace Scool2
+namespace School
 {
     /// <summary>
     /// Студенты

@@ -1,4 +1,4 @@
-﻿namespace Scool2
+﻿namespace School
 {
     /// <summary>
     /// 
@@ -8,7 +8,7 @@
         /// <summary>
         /// 
         /// </summary>
-        public void Test();
+        public void LocalConstructor();
 
         /// <summary>
         /// 

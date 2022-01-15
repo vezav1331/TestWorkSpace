@@ -1,4 +1,4 @@
-﻿namespace Scool2.Enums
+﻿namespace School.Enums
 {
     /// <summary>
     /// 

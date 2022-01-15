@@ -1,23 +1,22 @@
-﻿using Scool2.Models;
+﻿using School.Models;
 
-namespace Scool2.Extentions
+namespace School.Extentions
 {
     /// <summary>
     /// 
     /// </summary>
-    public static class QueryEcxtetion2
+    public static class QueryExtention4
     {
         /// <summary>
         /// 
         /// </summary>
         /// <param name="myClass"></param>
         /// <returns></returns>
-        public static MyClassStudents ToMyStudents(this MyClass myClass)
+        public static StudentsHobby ToStudentsHobby(this MyClass myClass)
         {
-            return new MyClassStudents()
+            return new StudentsHobby()
             {
                 NameStudents = myClass.MyListStudents.Select(w => w.Name).ToList(),
-                ClassId = myClass.Id
             };
         }
     }

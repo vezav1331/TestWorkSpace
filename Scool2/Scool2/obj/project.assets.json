@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj",
-      "projectName": "Scool2",
-      "projectPath": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\Scool2.csproj",
+      "projectUniqueName": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\School.csproj",
+      "projectName": "School",
+      "projectPath": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\School.csproj",
       "packagesPath": "C:\\Users\\saran\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\saran\\OneDrive\\Рабочий стол\\MyGeneralProject\\Scool2\\Scool2\\obj\\",
       "projectStyle": "PackageReference",

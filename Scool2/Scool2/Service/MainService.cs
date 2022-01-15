@@ -1,6 +1,6 @@
-﻿using Scool2.Entity;
+﻿using School.Entity;
 
-namespace Scool2
+namespace School
 {
     /// <summary>
     /// Главный сервис
@@ -10,14 +10,14 @@ namespace Scool2
         /// <summary>
         /// Переменная для обращения к "БД"
         /// </summary>
-        private List<School> MyDBContext;
+        private List<MySchool> MyDBContext;
 
         /// <summary>
         /// 
         /// </summary>
-        public void Test()
+        public void LocalConstructor()
         {
-            MyDBContext = new List<School>();
+            MyDBContext = new List<MySchool>();
 
             var stu = StudentBase.MockStudent();
             var teach = TeacherBase.MockTeacher();

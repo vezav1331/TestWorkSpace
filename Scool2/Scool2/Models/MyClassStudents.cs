@@ -1,4 +1,4 @@
-﻿namespace Scool2.Models
+﻿namespace School.Models
 {
     /// <summary>
     /// 

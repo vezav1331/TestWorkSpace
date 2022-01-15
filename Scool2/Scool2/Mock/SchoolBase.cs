@@ -1,6 +1,6 @@
-﻿using Scool2.Entity;
+﻿using School.Entity;
 
-namespace Scool2
+namespace School
 {
     /// <summary>
     /// 
@@ -11,12 +11,12 @@ namespace Scool2
         /// 
         /// </summary>
         /// <returns></returns>
-        public static List<School> MockMySchool()
+        public static List<MySchool> MockMySchool()
         {
-            List<School> mySchool = new List<School>();
+            List<MySchool> mySchool = new List<MySchool>();
 
-            mySchool.Add(new School() { Id = 1, SchoolName = "School 1"});
-            mySchool.Add(new School() { Id = 2, SchoolName = "School 2" });
+            mySchool.Add(new MySchool() { Id = 1, SchoolName = "School 1"});
+            mySchool.Add(new MySchool() { Id = 2, SchoolName = "School 2" });
 
             return mySchool;
         }

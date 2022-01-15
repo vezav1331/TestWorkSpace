@@ -1,4 +1,4 @@
-﻿namespace Scool2
+﻿namespace School
 {
     public class Program
     {
@@ -7,7 +7,7 @@
         {
             IMainService service = new MainService();
 
-            service.Test();
+            service.LocalConstructor();
 
             service.Query1();
 

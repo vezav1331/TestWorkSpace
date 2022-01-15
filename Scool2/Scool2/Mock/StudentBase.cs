@@ -1,7 +1,7 @@
-﻿using Scool2.Enums;
+﻿using School.Enums;
 using System.Linq;
 
-namespace Scool2
+namespace School
 {
     /// <summary>
     /// 

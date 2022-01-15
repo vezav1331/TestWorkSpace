@@ -1,9 +1,9 @@
-﻿namespace Scool2.Entity
+﻿namespace School.Entity
 {
     /// <summary>
     /// 
     /// </summary>
-    public class School
+    public class MySchool
     {
         /// <summary>
         /// 

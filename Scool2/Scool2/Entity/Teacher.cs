@@ -1,4 +1,4 @@
-﻿namespace Scool2
+﻿namespace School
 {
     /// <summary>
     /// Учителя
