@@ -25,6 +25,12 @@ namespace Scool2
 
             service.Query5();
 
+            Console.Write("123");
+            Console.Write("123");
+            Console.Write("123");
+            Console.Write("123");
+            Console.Write("123");
+
             /*
 
             MainService.Studi(stu);

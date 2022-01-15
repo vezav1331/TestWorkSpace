@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TASKS\\!Task4\\Task4_3\\Scool2\\Scool2\\Scool2.csproj": {}
+    "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj": {}
   },
   "projects": {
-    "C:\\TASKS\\!Task4\\Task4_3\\Scool2\\Scool2\\Scool2.csproj": {
+    "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TASKS\\!Task4\\Task4_3\\Scool2\\Scool2\\Scool2.csproj",
+        "projectUniqueName": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj",
         "projectName": "Scool2",
-        "projectPath": "C:\\TASKS\\!Task4\\Task4_3\\Scool2\\Scool2\\Scool2.csproj",
+        "projectPath": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\Scool2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\TASKS\\!Task4\\Task4_3\\Scool2\\Scool2\\obj\\",
+        "outputPath": "C:\\TASKS\\GitHubProject\\Scool2\\Scool2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
