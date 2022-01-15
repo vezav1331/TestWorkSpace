@@ -1,23 +1,38 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Scool2
+﻿namespace Scool2
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IMainService
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public void Test();
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query1();
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query2();
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query3();
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query4();
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query5();
     }
 }

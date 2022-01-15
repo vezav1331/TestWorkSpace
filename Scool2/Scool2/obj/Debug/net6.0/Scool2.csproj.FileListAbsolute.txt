@@ -79,7 +79,6 @@ C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\b
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.dll
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\ref\Scool2.dll
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\bin\Debug\net6.0\Scool2.pdb
-C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.csproj.AssemblyReference.cache
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfoInputs.cache
 C:\Users\saran\OneDrive\Рабочий стол\MyGeneralProject\Scool2\Scool2\obj\Debug\net6.0\Scool2.AssemblyInfo.cs

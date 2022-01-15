@@ -1,13 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Scool2
+﻿namespace Scool2
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class MyClassBase
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public static List<MyClass> MockUchebnogoClassa()
         {
             List<MyClass> myClass = new List<MyClass>();

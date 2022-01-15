@@ -26,7 +26,7 @@
         public Teacher MyTeacher { get; set; }
 
         /// <summary>
-        /// 
+        /// Идентификатор школы
         /// </summary>
         public int SchoolId { get; set; }
     }

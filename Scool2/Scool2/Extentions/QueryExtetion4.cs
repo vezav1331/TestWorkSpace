@@ -1,14 +1,17 @@
 ﻿using Scool2.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Scool2.Extentions
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class QueryExtetion4
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="myClass"></param>
+        /// <returns></returns>
         public static StudentsHobby ToStudentsHobby(this MyClass myClass)
         {
             return new StudentsHobby()

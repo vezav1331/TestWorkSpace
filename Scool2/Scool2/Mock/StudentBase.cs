@@ -3,8 +3,15 @@ using System.Linq;
 
 namespace Scool2
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class StudentBase
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
           public static List<Student> MockStudent()
           {
             List<Student> students = new List<Student>();

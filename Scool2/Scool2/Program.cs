@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Scool2
+﻿namespace Scool2
 {
     public class Program
     {
@@ -24,21 +18,6 @@ namespace Scool2
             service.Query4();
 
             service.Query5();
-
-            Console.Write("123");
-            Console.Write("123");
-            Console.Write("123");
-            Console.Write("123");
-            Console.Write("123");
-
-            /*
-
-            MainService.Studi(stu);
-            MainService.Uchilki(teach);
-            MainService.Klassi(kls);
-
-            MainService.Sborka(stu, teach, kls);
-            */
         }
 
     }

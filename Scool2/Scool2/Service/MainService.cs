@@ -1,7 +1,4 @@
 ﻿using Scool2.Entity;
-using Scool2.Enums;
-using Scool2.Extentions;
-using System.Linq;
 
 namespace Scool2
 {
@@ -15,6 +12,9 @@ namespace Scool2
         /// </summary>
         private List<School> MyDBContext;
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Test()
         {
             MyDBContext = new List<School>();
@@ -30,15 +30,17 @@ namespace Scool2
 
                 foreach (var myClassItem in schoolItem.MyClasses)
                 {
-                    myClassItem.MyTeacher = teach.Where(q => q.MyClassId == myClassItem.Id).FirstOrDefault();
+                    myClassItem.MyTeacher = teach.FirstOrDefault(q => q.MyClassId == myClassItem.Id);
                     myClassItem.MyListStudents = stu.Where(w => w.MyClassId == myClassItem.Id).ToList();
                 }
 
                 MyDBContext.Add(schoolItem);
             }
-            var ppp = 333;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query1()
         {
             /*
@@ -55,6 +57,9 @@ namespace Scool2
             */
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query2()
         {
             /*
@@ -63,7 +68,9 @@ namespace Scool2
             */
         }
 
-        //3. Есть ли хоть 1 студент из 5 класса
+        /// <summary>
+        /// Есть ли хоть 1 студент из 5 класса
+        /// </summary>
         public void Query3()
         {
             /*
@@ -72,8 +79,10 @@ namespace Scool2
             */
         }
 
-        //4. Добавить студентам уникальное поле.Хобби.Сделать выборку по массиву студентов
-        //которые занимаются Плаванием, рисованием и стрельбой
+        /// <summary>
+        /// Добавить студентам уникальное поле.Хобби.Сделать выборку по массиву студентов
+        /// которые занимаются Плаванием, рисованием и стрельбой
+        /// </summary>
         public void Query4()
         {
             /*
@@ -86,19 +95,19 @@ namespace Scool2
             */
         }
 
-        //5. Выборка по всем классам. вывести средний бал всех оценок в класее
+        /// <summary>
+        /// 
+        /// </summary>
         public void Query5()
         {
             /*
             //var rezult5 = MyDBContext.SelectMany(q => q.MyListStudents.Where(w => w.MyClassId == 2)).ToList();
-            var rezult5 = MyDBContext.SelectMany(q => q.MyListStudents.Where(w => w.MyClassId == 2)).Average(n => n.MediumBall);    //ПОПРАВИТЬ ТУТ 3
+            var rezult5 = MyDBContext.SelectMany(q => q.MyListStudents.Where(w => w.MyClassId == 2)).Average(n => n.MediumBall);
 
             var b = 1;
             */
         }
         //6. Добавляешь ещё список классов(другая школа). Выводишь на экран через Linq учеников всех классов двух школ
-
-
 
     }
 }

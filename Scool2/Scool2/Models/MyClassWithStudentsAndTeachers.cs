@@ -1,17 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Scool2.Models
+﻿namespace Scool2.Models
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class MyClassWithStudentsAndTeachers
     {
+        /// <summary>
+        /// 
+        /// </summary>
         public List<string> NameStudents { get; set; }    
 
+        /// <summary>
+        /// 
+        /// </summary>
         public string NameTeacher { get; set; }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public string ClassName { get; set; }
     }
 }
