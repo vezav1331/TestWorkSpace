@@ -1,4 +1,6 @@
-﻿namespace School.Enums
+﻿using System.ComponentModel;
+
+namespace School.Enums
 {
     /// <summary>
     /// 
@@ -8,6 +10,7 @@
         /// <summary>
         /// 
         /// </summary>
+        [Description("Плавание")]
         Swim = 1,
         
         /// <summary>

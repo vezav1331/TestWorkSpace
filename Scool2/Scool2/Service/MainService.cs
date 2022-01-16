@@ -1,4 +1,6 @@
 ﻿using School.Entity;
+using School.Enums;
+using School.Extentions;
 using School.Interfaces;
 using School.Mock;
 
@@ -45,6 +47,8 @@ namespace School.Service
         /// </summary>
         public void Query1()
         {
+            var test = HobbyListEnum.Swim.GetEnumDescription();
+            var t1 = 1;
             /*
             var rezult = MyDBContext.Select(a => a.ToMyClassWithStudentsAndTeachers()).ToList();
 

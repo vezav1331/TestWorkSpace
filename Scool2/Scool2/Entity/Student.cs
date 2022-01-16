@@ -7,6 +7,9 @@ namespace School.Entity
     /// </summary>
     public class Student
     {
+        /// <summary>
+        /// Id Студента
+        /// </summary>
         public int Id { get; set; }
 
         /// <summary>
