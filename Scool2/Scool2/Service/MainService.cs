@@ -49,7 +49,9 @@ namespace School.Service
         {
             var test = HobbyListEnum.Swim.GetEnumDescription();
 
-            var r1 = MyDBContext.Where(z => z.Id == 1).ToList();
+            
+            var r1 = MyDBContext.Where(z => z.Id == 1).ToList();    // Так прикольнее
+
             var r2 = MyDBContext.Where(a => a.Id == 1).SelectMany(q => q.MyClasses.Select(r => r.ToMyClassWithStudentsAndTeachers)).ToList();
             var t1 = 1;
             
