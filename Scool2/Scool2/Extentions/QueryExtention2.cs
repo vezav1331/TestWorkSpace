@@ -9,7 +9,7 @@ namespace School.Extentions
     public static class QueryExtention2
     {
         /// <summary>
-        /// 
+        /// Мапер2
         /// </summary>
         /// <param name="myClass"></param>
         /// <returns></returns>
