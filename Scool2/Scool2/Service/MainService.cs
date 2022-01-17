@@ -43,7 +43,7 @@ namespace School.Service
         }
 
         /// <summary>
-        /// 
+        /// Список всех студентов их класс и учитель. Смапить в модель1(по поводу маминга придешь спросишь как будет время)
         /// </summary>
         public void Query1()
         {
@@ -52,11 +52,10 @@ namespace School.Service
             
             var r1 = MyDBContext.Where(z => z.Id == 1).ToList();    // Так прикольнее
 
-            var r2 = MyDBContext.Where(a => a.Id == 1).SelectMany(q => q.MyClasses.Select(r => r.ToMyClassWithStudentsAndTeachers)).ToList();
+            var r1_1 = MyDBContext.Where(a => a.Id == 1).SelectMany(q => q.MyClasses.Select(r => r.ToMyClassWithStudentsAndTeachers)).ToList();
+
             var tttttttt1 = 1; // такая переменная для проверки GitA
             
-
-
             /*
             var rezult = MyDBContext.Select(a => a.ToMyClassWithStudentsAndTeachers()).ToList();
             
@@ -73,10 +72,11 @@ namespace School.Service
         }
 
         /// <summary>
-        /// 
+        /// Список всех студентов из 2, 4 и 6 классов
         /// </summary>
         public void Query2()
         {
+            
             /*
             var rezult2 = MyDBContext.Where(b => b.Id == 2 || b.Id == 4).Select(ww => ww.ToMyStudents()).ToList();
             var b = 333;
