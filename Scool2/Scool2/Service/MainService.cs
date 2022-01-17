@@ -21,6 +21,7 @@ namespace School.Service
         /// </summary>
         public void LocalConstructor()
         {
+            Console.WriteLine("BEGIN");
             MyDBContext = new List<MySchool>();
 
             var stu = StudentBase.MockStudent();

@@ -22,6 +22,8 @@ namespace School
 
             service.Query5();
 
+            Console.WriteLine("The End");
+
 
         }
 
